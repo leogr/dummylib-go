@@ -1,0 +1,4 @@
+project_name: dummylib-go
+release:
+  github:
+  prerelease: auto
